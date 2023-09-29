@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-
+<!--
 <h3> 🛠 &nbsp;Tech Stack</h3>
 - 🌐 &nbsp;
 
@@ -34,3 +34,5 @@ Here are some ideas to get you started:
 
 
 <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=SenderProds" />
+
+-->
